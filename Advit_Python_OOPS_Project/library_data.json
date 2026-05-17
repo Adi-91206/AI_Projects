@@ -1,0 +1,17 @@
+[
+    {
+        "_title": "The Alchemist",
+        "_item_id": "ITEM-1001",
+        "author": "Paulo Coehlo"
+    },
+    {
+        "_title": "The Merchant of Venice",
+        "_item_id": "ITEM-1002",
+        "author": "Shakespeare"
+    },
+    {
+        "_title": "Vogue",
+        "_item_id": "ITEM-1003",
+        "issue_number": 71
+    }
+]
